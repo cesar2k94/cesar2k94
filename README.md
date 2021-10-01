@@ -1,6 +1,6 @@
 Hi, I'am Julio Cesar 👋
 
-🔭 Freelance Full Stack Development
+🔭 Full Stack Development
 
 🌱 Exploring new technologies.
 
