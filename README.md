@@ -4,7 +4,7 @@ Hi, I'am Julio Cesar 👋
 
 🌱 Exploring new technologies.
 
-🎓 Automatic Engineer and Full Stack Development Bootcamp.
+🎓 Automatic Engineer and Full Stack Development.
 
 💻 Languages and Tools: Javascript, React.JS, Python, Django, Flask.
 
